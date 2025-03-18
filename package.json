@@ -1,0 +1,16 @@
+{
+  "name": "task-tests",
+  "version": "1.0.0",
+  "description": "## Описание проекта",
+  "main": "arrayUtils.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "Saint",
+  "license": "ISC",
+  "devDependencies": {
+    "fast-check": "^4.0.0",
+    "jest": "^29.7.0"
+  }
+}
